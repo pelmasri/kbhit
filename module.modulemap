@@ -1,6 +1,5 @@
 module kbhit [system] {
   header "kbhit.h"
-  link "kbhit/kbhit.o"
-  
+  link "https://githum.com/pelmasri/kbhit/kbhit.o"
   export *
 }
