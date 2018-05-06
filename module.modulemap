@@ -1,5 +1,5 @@
 module kbhit [system] {
-  header "kbhit.h"
-  header "kbhit.o"
+  umbrella header "kbhit.h"
+  link "kbhit.o"
   export *
 }
