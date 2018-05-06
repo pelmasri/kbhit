@@ -1,5 +1,5 @@
 module kbhit [system] {
   header "kbhit.h"
-  link "/home/pi/dev/c/lib/kbhit/kbhit.o"
+  link "kbhit.o"
   export *
 }
